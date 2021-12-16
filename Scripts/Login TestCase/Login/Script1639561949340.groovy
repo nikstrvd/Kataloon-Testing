@@ -27,5 +27,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - TMS/input_
 
 WebUI.click(findTestObject('Object Repository/Page_Login - TMS/button_Log In'))
 
-WebUI.closeBrowser()
-
